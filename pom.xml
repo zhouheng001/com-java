@@ -46,7 +46,7 @@
         <lombok.version>1.16.16</lombok.version>
         <spring-boot.version>1.5.1.RELEASE</spring-boot.version>
         <dubbo-springboot.version>1.0.0</dubbo-springboot.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <commons-collections4.version>4.1</commons-collections4.version>
         <redis.version>2.9.0</redis.version>
