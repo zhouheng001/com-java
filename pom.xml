@@ -73,7 +73,7 @@
         <disruptor.version>3.3.5</disruptor.version>
         <dubbo.version>2.7.4.1</dubbo.version>
         <hutool.version>5.5.7</hutool.version>
-        <pdfbox.version>2.0.0-RC3</pdfbox.version>
+        <pdfbox.version>2.0.24</pdfbox.version>
         <itextpdf.version>5.5.13</itextpdf.version>
         <itext-asian.version>5.2.0</itext-asian.version>
         <zxing.version>3.3.0</zxing.version>
