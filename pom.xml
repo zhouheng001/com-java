@@ -62,7 +62,7 @@
         <mysql.version>5.1.44</mysql.version>
         <commons-logging.version>1.2</commons-logging.version>
         <spring-aop.version>4.3.11.RELEASE</spring-aop.version>
-        <spring-web.version>4.3.11.RELEASE</spring-web.version>
+        <spring-web.version>5.3.18</spring-web.version>
         <servlet-api.version>3.0-alpha-1</servlet-api.version>
         <rabbitmq.version>3.6.5</rabbitmq.version>
         <swagger-api.version>2.8.0</swagger-api.version>
